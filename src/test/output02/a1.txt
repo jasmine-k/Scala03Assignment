@@ -1,0 +1,8 @@
+this -> 1
+is -> 1
+jasmine -> 2
+knoldus -> 4
+llp -> 1
+company -> 1
+kaur -> 1
+software -> 2

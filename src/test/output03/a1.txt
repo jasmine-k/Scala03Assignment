@@ -1,0 +1,4 @@
+Protocol -> https, Host -> google, Domain -> co.in, Query params -> Map(gfe_rd -> cr)
+Protocol -> https, Host -> yahoo, Domain -> co.in, Query params -> Map(gfe_rd -> cr, a -> c)
+Protocol -> http, Host -> google, Domain -> co.in, Query params -> Map(cah -> dcksc, dcgb -> dssvs)
+Protocol -> http, Host -> google, Domain -> com, Query params -> Map(cah -> dcksc, dcgb -> dssv)
